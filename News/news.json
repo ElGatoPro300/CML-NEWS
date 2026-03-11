@@ -9,5 +9,38 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Capturado2.png"
     ]
+  },
+  {
+    "id": "1.10.0-release",
+    "date": "2026-03-11",
+    "title": "BBS CML EDITION 1.10.0",
+    "summary": "New structure lighting and IK editor foundations.",
+    "body": "We have introduced per-vertex lightmaps for structures, virtual structure light, and the first iteration of the new IK panel. This update improves how structures look with and without shaders, and lays the groundwork for more advanced IK tools in future versions.",
+    "tags": ["release", "lighting", "ik"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Capturado2.png"
+    ]
+  },
+  {
+    "id": "1.10.0-hotfix1",
+    "date": "2026-03-12",
+    "title": "Hotfix: IK crash and structure light tweaks",
+    "summary": "Fixes crash when closing the IK node panel and adjusts virtual light.",
+    "body": "This hotfix resolves a crash related to the old IK node panel and improves how virtual structure light behaves when toggled off, making sure structure torches do not illuminate when the feature is disabled.",
+    "tags": ["hotfix", "bugfix"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Capturado2.png"
+    ]
+  },
+  {
+    "id": "community-spotlight-01",
+    "date": "2026-03-15",
+    "title": "Community Spotlight #1",
+    "summary": "Highlighting some cool builds made with BBS CML Edition.",
+    "body": "In this first community spotlight we showcase several creations built using the new structure system. If you want your project to appear here in the future, join the Discord server and share your screenshots in the community channels.",
+    "tags": ["community", "spotlight"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Capturado2.png"
+    ]
   }
 ]
