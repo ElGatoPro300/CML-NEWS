@@ -42,5 +42,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Aura.png"
     ]
+  },
+  {
+    "id": "EndUpdate",
+    "date": "2026-03-12",
+    "title": "EndUpdate",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["EndUpdate"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/EndUpdateCartel.png"
+    ]
   }
 ]
