@@ -9,5 +9,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/1.10-UPDATE.png"
     ]
+  },
+  {
+    "id": "TEST",
+    "date": "2026-03-12",
+    "title": "BBS CML EDITION TEST",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["TEST"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Capturado2.png"
+    ]
   }
 ]
