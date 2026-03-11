@@ -10,4 +10,15 @@
       "https://github.com/ElGatoPro300/CML-NEWS/blob/c1ca41742851697c51dee043f444b7e0705fe808/News/images/Capturado2.png"
     ]
   }
+    {
+    "id": "Esto Es Una Prueba 2",
+    "date": "2026-03-11",
+    "title": "Pruebas 2",
+    "summary": "",
+    "body": "otra noticia mas",
+    "tags": ["release"],
+    "images": [
+      "https://github.com/ElGatoPro300/CML-NEWS/blob/c1ca41742851697c51dee043f444b7e0705fe808/News/images/Capturado2.png"
+    ]
+  }
 ]
