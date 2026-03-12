@@ -54,7 +54,7 @@
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/EndUpdateCartel.png"
     ]
   },
-    {
+  {
     "id": "Fin",
     "date": "2026-03-20",
     "title": "Fin",
@@ -63,6 +63,17 @@
     "tags": ["Fin"],
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Fin.png"
+    ]
+  },
+  {
+    "id": "shh",
+    "date": "2026-03-25",
+    "title": "SHHH",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["SHHH"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/shh.png"
     ]
   }
 ]
