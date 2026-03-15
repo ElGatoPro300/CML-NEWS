@@ -108,5 +108,49 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Alfonzo_1.png"
     ]
+  },
+  {
+    "id": "55",
+    "date": "2026-03-26",
+    "title": "55",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/55.png"
+    ]
+  },
+  {
+    "id": "Peeeeee",
+    "date": "2026-03-26",
+    "title": "Alfonzosss",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Peeeeee.png"
+    ]
+  },
+  {
+    "id": "fergferf",
+    "date": "2026-03-26",
+    "title": "fergferf",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/fergferf.png"
+    ]
+  },
+  {
+    "id": "Sekza_Gorilla",
+    "date": "2026-03-26",
+    "title": "Sekza_Gorilla",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Sekza_Gorilla.png"
+    ]
   }
 ]
