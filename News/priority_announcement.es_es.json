@@ -1,0 +1,11 @@
+{
+  "id": "PanelNews",
+  "enabled": true,
+  "title": "¡Gracias por actualizar a la 1.10!",
+  "body": "¡Muchas gracias por actualizar! Recuerda revisar el panel de noticias con frecuencia para no perderte las próximas novedades.",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/News.png",
+  "actionLabel": "Registro de cambios",
+  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log",
+  "showOpenNewsButton": false,
+  "showActionButton": false
+}
