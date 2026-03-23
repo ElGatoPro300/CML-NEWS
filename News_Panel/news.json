@@ -9,16 +9,5 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10-UPDATE.png"
     ]
-  },
-  {
-    "id": "gemas",
-    "date": "2026-03-28",
-    "title": "Gemas",
-    "summary": "",
-    "body": "Test message to confirm that unread messages are displayed correctly.",
-    "tags": ["MAL"],
-    "images": [
-      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/News.png"
-    ]
   }
 ]
