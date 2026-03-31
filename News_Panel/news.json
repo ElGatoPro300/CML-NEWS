@@ -20,5 +20,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/MysteryBox.png"
     ]
+  },
+    {
+    "id": "1.10.1-release",
+    "date": "2026-03-31",
+    "title": "Release 1.10.1",
+    "summary": "",
+    "body": "Version 1.10.1 is now available!!, an update that brings some bug fixes.",
+    "tags": ["Release"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.1-UPDATE.png"
+    ]
   }
 ]

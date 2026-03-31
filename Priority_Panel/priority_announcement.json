@@ -1,11 +1,11 @@
 {
   "id": "PanelNews",
   "enabled": true,
-  "title": "Thanks for updating to 1.10!!",
-  "body": "Thank you so much for the update! Remember to check the news feed regularly so you don't miss any upcoming news!",
-  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/News.png",
+  "title": "Version 1.10.1 is now available!!",
+  "body": "Version 1.10.1 includes some bug fixes that were reported on the Discord server. You can now update BBS CML EDITION on your favorite modding platform!",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.1-UPDATE.png",
   "actionLabel": "Changelog",
-  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log",
+  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log#1101",
   "showOpenNewsButton": false,
-  "showActionButton": false
+  "showActionButton": true
 }
